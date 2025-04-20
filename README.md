@@ -15,7 +15,7 @@ A Python-based world clock application built with Tkinter that displays the curr
 - Tkinter (included with Python standard library)
 
 ## Setup
-1. Clone the repository: 'git clone https://github.com/your-username/world-clock.git'
+1. Clone the repository: 'git clone https://github.com/Kanishkjain0510/Digital_clock.git'
 2. Install dependencies: 'pip install pytz' & 'pip install DateTime'
 3. Run the app: 'python3 Digital_clock.py'
 
